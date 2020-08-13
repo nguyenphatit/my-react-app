@@ -1,6 +1,11 @@
 {
-  "name": "myapp",
+  "name": "my-react-app",
   "version": "0.1.0",
+  "author": {
+    "name": "Phat Nguyen Tan",
+    "email": "nguyenphatit.nl@gmail.com"
+  },
+  "license": "ISC",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
