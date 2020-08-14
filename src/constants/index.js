@@ -1,0 +1,9 @@
+// counter
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const INCREMENT_ASYNC = 'INCREMENT_ASYNC';
+export const DECREMENT_ASYNC = 'DECREMENT_ASYNC';
+
+export const GET_ALL_POSTS = 'GET_ALL_POSTS';
+export const GET_ALL_POSTS_SUCCESS = 'GET_ALL_POSTS_SUCCESS';
+export const GET_ALL_POSTS_FAIL = 'GET_ALL_POSTS_FAIL'
